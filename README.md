@@ -10,7 +10,7 @@ The courses take a computational social science approach to working with urban d
 
 ### PPD534: Data, Evidence, and Communication for the Public Good
 
-The first course, PPD534, starts with the basics of coding with Python, then on to data loading and analysis, then on to descriptive statistics, then inference and the scientific method, and finally a critical assessment of smart cities and urban informatics.
+The first course, **PPD534**, starts with the basics of coding with Python, then on to data loading and analysis, then on to descriptive statistics, then inference and the scientific method, and finally a critical assessment of smart cities and urban informatics.
 
 **PPD534** is available on [GitHub](https://github.com/gboeing/ppd534) and interactively on [Binder](https://mybinder.org/v2/gh/gboeing/ppd534/HEAD).
 
