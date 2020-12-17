@@ -1,9 +1,3 @@
-# file to store my api keys
-keys.py
-
-.ipynb_checkpoints
-16-Web-Scraping/old/*
-
 *.bat
 .logs/*
 *.doc
